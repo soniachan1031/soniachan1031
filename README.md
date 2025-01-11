@@ -5,7 +5,7 @@
 - 🌱 Learning: Python, Android Development, and Microsoft Power Apps.
 - 👯 Collaborating: Excited to contribute to front-end development projects—let's build something amazing together!
 - 📫 Contact: chanshongsonia@gmail.com
-- ⚡ Fun Fact: When I'm not coding, you can find me cooking up delicious recipes or exploring scenic hiking trails.
+- ⚡ Fun Fact: When I'm not coding, I enjoy cooking up delicious recipes or exploring scenic hiking trails.
 
 ## 🌟 Highlights
 - 🎯 Career Goals: Transitioning into software development, with a strong focus on front-end development and user experience design.
