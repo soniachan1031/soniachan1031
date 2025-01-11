@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**soniachan1031/soniachan1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hey World 👋
 
 - 🔭 I’m currently a final year at Conestoga College Computer Programming.
 - 🌱 I’m currently learning Python, Android Development and Microsoft Power Apps. 
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
