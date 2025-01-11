@@ -1,7 +1,14 @@
 ## Hey World, I'm Sonia 👋
 
-- 🔭 I’m currently a final year at Conestoga College Computer Programming.
-- 🌱 I’m currently learning Python, Android Development and Microsoft Power Apps. 
-- 👯 I’m looking to collaborate on making any projects for the front-end development. 
-- 📫 How to reach me: chanshongsonia@gmail.com
-- ⚡ Fun fact: Outside of career and academics, I enjoy coding, cooking and hiking!
+- 🔭 Currently: Final-year Computer Programming student at Conestoga College.
+      With 9 years of experience in the marketing industry, I bring a unique blend of technical skills, persistence, and a passion for both web and mobile development.
+- 🌱 Learning: Python, Android Development, and Microsoft Power Apps.
+- 👯 Collaborating: Excited to contribute to front-end development projects—let's build something amazing together!
+- 📫 Contact: chanshongsonia@gmail.com
+- ⚡ Fun Fact: When I'm not coding, you can find me cooking up delicious recipes or exploring scenic hiking trails.
+
+## 🌟 Highlights
+- 🎯 Career Goals: Transitioning into software development, with a strong focus on front-end development and user experience design.
+
+## 🚀 Let's Connect!
+🔗 LinkedIn: www.linkedin.com/in/shongchan
