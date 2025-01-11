@@ -10,5 +10,4 @@
 ## 🌟 Highlights
 - 🎯 Career Goals: Transitioning into software development, with a strong focus on front-end development and user experience design.
 
-## 🚀 Let's Connect!
-🔗 LinkedIn: linkedin.com/in/shongchan
+🚀 Let's Connect!
