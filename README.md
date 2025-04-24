@@ -9,5 +9,5 @@ Hey World, I'm Sonia 👋
 ⚡ Fun Fact: Outside of tech, you’ll find me experimenting with new recipes or hiking scenic trails.<br/>
 
 ## ✨ Highlights
-<p>🚀 Career Focus: Actively pursuing opportunities in mobile app development, with a strong interest in UX/UI design and clean architecture.<br/>
-<p>🌍 Let’s Connect: Open to collaborations, freelance work, and full-time roles in mobile or front-end development!
+🚀 Career Focus: Actively pursuing opportunities in mobile app development, with a strong interest in UX/UI design and clean architecture.<br/>
+🌍 Let’s Connect: Open to collaborations, freelance work, and full-time roles in mobile or front-end development!
